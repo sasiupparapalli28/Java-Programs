@@ -11,10 +11,10 @@ public class EvenOrOdd {
 }
 /*
 	OUTPUT
-  22
+        22
 	EVEN
  
 	OUTPUT
-  25
+        25
 	ODD
 */
