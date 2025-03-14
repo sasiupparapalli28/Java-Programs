@@ -14,7 +14,7 @@ public class PositiveOrNegative {
 /*
 	OUTPUT
 	155
-  Positive
+        Positive
 
 	OUTPUT
 	-77
